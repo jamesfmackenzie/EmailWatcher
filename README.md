@@ -8,8 +8,8 @@
 // setup some options
 var options = new EmailWatcherOptions {
   Host = "<POP host>",
-  Username = "<POP username>,
-  Password = "<POP password",
+  Username = "<POP username>",
+  Password = "<POP password>",
   TimeBetweenRefreshes = 30 // seconds
   };
   
