@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailWatcher", "EmailWatche
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailWatcher.Test.Unit", "EmailWatcher.Test.Unit\EmailWatcher.Test.Unit.csproj", "{02F61188-B9B8-4ADE-B3CD-900FF2CEAFFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleEmailWatcherImplementation", "TestConsumer\SampleEmailWatcherImplementation.csproj", "{A1B58206-DD20-4CDA-825F-CB9B9860F188}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleEmailWatcherImplementation", "SampleEmailWatcherImplementation\SampleEmailWatcherImplementation.csproj", "{A1B58206-DD20-4CDA-825F-CB9B9860F188}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
